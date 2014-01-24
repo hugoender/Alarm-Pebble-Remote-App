@@ -15,5 +15,4 @@ Top button is Arm, middle button is Disarm, and bottom button is unassigned (res
 
 This is a proof of concept and while it works perfectly fine (I currently use it to arm and disarm my house alarm every day), I plan to add more features in the future.
 
-
-
+Feel free to contact me with any questions at: endr42@gmail.com

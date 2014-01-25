@@ -9,6 +9,8 @@ Allows you to control two GPIO pins on a Raspberry Pi to arm and disarm your hom
 
 Each press of a button brings the user specified GPIO high for 2 seconds and then drops it back down to low. 
 
+You can specify the IP address of your Raspberry Pi and the port number that you set in Webiopi (default is 8050) in the configuration page of the app. You can also specify the GPIO pin numbers your setup uses (NOTE: this app uses the BCM numbering scheme not the header numbering!)
+
 Top button is Arm, middle button is Disarm, and bottom button is unassigned (reserved for future use). When you press a button you will get one of two vibrations:
 -One vibration means communication with phone Pebble app was successful.
 -Two vibrations means communication with phone Pebble app failed. Make sure Pebble app is running on the phone. The       iPhone sometimes terminates the Pebble app if it has been running in the background for too long so make sure to reopen   the app to allow communication.

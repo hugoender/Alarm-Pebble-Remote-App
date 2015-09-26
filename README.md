@@ -4,8 +4,11 @@ HomeAlarmRemotePebble
 **Home Alarm Remote for Raspberry Pi and Pebble Watch**
 
 **Requirements:** Raspberry Pi with Webiopi installed. 
+_________________________
+***Update:*** After numerous requests, I have made the source code available. Now you can fork it and modify it to meet your needs! :) 
 
-***Update:*** After numerous requests, I have made the source code available. Now you can fork it and modify it to meet your needs! :)
+Some fields in the code are commented out (i.e. IP Address, GPIO #) and you need to provided your own values for them otherwise the code will not work.
+_________________________
 
 Allows you to control two GPIO pins on a Raspberry Pi to arm and disarm your home alarm. 
 

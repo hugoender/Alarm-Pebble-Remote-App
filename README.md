@@ -5,7 +5,9 @@ HomeAlarmRemotePebble
 
 **Requirements:** Raspberry Pi with Webiopi installed. 
 _________________________
-***Update:*** After numerous requests, I have made the source code available. Now you can fork it and modify it to meet your needs! :) 
+***Update:*** After numerous requests, I have made the source code available. Now you can fork it, improve upon it, and then submit a pull request! I will review all pull requests and if yours gets pushed to the master branch, I will credit you on the app configuration page :) 
+
+There is plenty that could be improved upon in this app so it should not be too hard to make it better.
 
 Some fields in the code are commented out (i.e. IP Address, GPIO #) and you need to provided your own values for them otherwise the code will not work.
 _________________________
